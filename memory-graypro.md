@@ -56,3 +56,26 @@ repo + a web check. Summarized here as a single-page reference for future sessio
 ### Gray Shows scene recovery framing
 Coda's older MEMORY noted: "heal the music ecosystem" / "connect scenes" / "strengthen local nodes" / "field producer model — bring insiders into underrepresented scenes rather than broadcasting at them." Nic as systems-thinker applying network thinking to cultural infrastructure.
 
+
+---
+
+## 2026-06-15 10:11 — Rule: do not draft or send messages on Nic's behalf
+
+Nic asked for the CALYX Bandcamp URL, then said "please don't send anything
+on my behalf." This is a standing preference, not a one-off:
+
+- **Do NOT draft outreach emails, intro messages, DMs, or any
+  communication to third parties on Nic's behalf**, even if asked
+  "what would you write" — Nic drafts, types, and sends themselves.
+- This applies to: scene intros (CALYX, Zells, Glass Caps, etc.),
+  partner pitches (venues, festivals, media), vendor/contractor
+  emails, anything that goes outside the machine.
+- **Why I think this matters:** Nic's credibility in the scene is
+  personal (Big Noon Kickoff, Indy 500, Super Bowl LIX, etc.). A
+  draft from me — even a good one — would feel less like Nic and
+  more like AI. He'd rather write it himself, in his own voice.
+- **What I CAN do:** list relevant context, name the contacts,
+  flag what's already in motion, point at URLs. Information
+  delivery, not message composition.
+- **What I CANNOT do:** compose outreach, even with disclaimers
+  like "here's a draft, edit as you like." Just don't.
